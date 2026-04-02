@@ -1,48 +1,36 @@
 {
-  "festival": "Wir leben Laut Festival 2026",
-  "ort": "Loburg",
-  "zeitplan": [
-    {
-      "datum": "2026-05-22",
-      "wochentag": "Freitag",
-      "bands": [
-        "Serum 114",
-        "Pro-Pain",
-        "BRDIGUNG",
-        "Harpyie",
-        "Berserker Berlin",
-        "Eizbrand",
-        "Drunken Swallows",
-        "Zwoa Bier",
-        "Las Tibo"
-      ]
-    },
-    {
-      "datum": "2026-05-23",
-      "wochentag": "Samstag",
-      "bands": [
-        "Unantastbar",
-        "Torfrock",
-        "Toxpack",
-        "Crushing Caspars",
-        "Neurotox",
-        "Versus",
-        "Ampex",
-        "Las Tibo"
-      ]
-    },
-    {
-      "datum": "2026-05-24",
-      "wochentag": "Sonntag",
-      "bands": [
-        "Eisbrecher",
-        "Willkuer",
-        "Artefuckt",
-        "9mm",
-        "Schattenmann",
-        "Haiznberg",
-        "Las Tibo"
-      ]
-    }
-  ]
+  "location": "Loburg",
+  "date": "22.05. - 24.05.2026",
+  "runningOrder": {
+    "Freitag, 22.05.": [
+      "Serum 114",
+      "Pro-Pain",
+      "BRDIGUNG",
+      "Harpyie",
+      "Berserker Berlin",
+      "Eizbrand",
+      "Drunken Swallows",
+      "Zwoa Bier",
+      "Las Tibo"
+    ],
+    "Samstag, 23.05.": [
+      "Unantastbar",
+      "Torfrock",
+      "Toxpack",
+      "Crushing Caspars",
+      "Neurotox",
+      "Versus",
+      "Ampex",
+      "Las Tibo"
+    ],
+    "Sonntag, 24.05.": [
+      "Eisbrecher",
+      "Willkuer",
+      "Artefuckt",
+      "9mm",
+      "Schattenmann",
+      "Haiznberg",
+      "Las Tibo"
+    ]
+  }
 }
