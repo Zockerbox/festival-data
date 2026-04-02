@@ -1,0 +1,48 @@
+{
+  "festival": "Wir leben Laut Festival 2026",
+  "ort": "Loburg",
+  "zeitplan": [
+    {
+      "datum": "2026-05-22",
+      "wochentag": "Freitag",
+      "bands": [
+        "Serum 114",
+        "Pro-Pain",
+        "BRDIGUNG",
+        "Harpyie",
+        "Berserker Berlin",
+        "Eizbrand",
+        "Drunken Swallows",
+        "Zwoa Bier",
+        "Las Tibo"
+      ]
+    },
+    {
+      "datum": "2026-05-23",
+      "wochentag": "Samstag",
+      "bands": [
+        "Unantastbar",
+        "Torfrock",
+        "Toxpack",
+        "Crushing Caspars",
+        "Neurotox",
+        "Versus",
+        "Ampex",
+        "Las Tibo"
+      ]
+    },
+    {
+      "datum": "2026-05-24",
+      "wochentag": "Sonntag",
+      "bands": [
+        "Eisbrecher",
+        "Willkuer",
+        "Artefuckt",
+        "9mm",
+        "Schattenmann",
+        "Haiznberg",
+        "Las Tibo"
+      ]
+    }
+  ]
+}
