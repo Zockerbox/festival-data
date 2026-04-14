@@ -58,9 +58,9 @@
         "WALLS OF JERICHO",
         "WARMEN",
         "WATCH ME RISE"
-    ]
+    ],
     "runningOrder": {
-        "MITTWOCH": [
+        "Mittwoch, 01.07.": [
             "HELLOWEEN",
             "Black Label Society",
             "Paradise Lost",
@@ -71,7 +71,7 @@
             "Soulbound",
             "HARAKIRI FOR THE SKY"
         ],
-        "DONNERSTAG": [
+        "Donnerstag, 02.07.": [
             "ALICE COOPER",
             "AVATAR",
             "HÄMATOM",
@@ -89,7 +89,7 @@
             "DIE HABENICHTSE",
             "FINAL CRY"
         ],
-        "FREITAG": [
+        "Freitag, 03.07.": [
             "KREATOR",
             "AIRBOURNE",
             "SUBWAY TO SALLY",
@@ -106,7 +106,7 @@
             "HAGGEFUGG",
             "RODEO 5000"
         ],
-        "SAMSTAG": [
+        "Samstag, 04.07.": [
             "FEUERSCHWANZ",
             "DORO",
             "KNORKATOR",
