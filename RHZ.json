@@ -2,7 +2,7 @@
     "location": "Flugplatz Ballenstedt",
     "date": "01.07.2026 - 04.07.2026",
     "runningOrder": {
-        "WED, JULY 1ST 2026": [
+        "MITTWOCH": [
             "HELLOWEEN",
             "Black Label Society",
             "Paradise Lost",
@@ -13,7 +13,7 @@
             "Soulbound",
             "HARAKIRI FOR THE SKY"
         ],
-        "THU, JULY 2ND 2026": [
+        "DONNERSTAG": [
             "ALICE COOPER",
             "AVATAR",
             "HÄMATOM",
@@ -31,7 +31,7 @@
             "DIE HABENICHTSE",
             "FINAL CRY"
         ],
-        "FRI, JULY 3RD 2026": [
+        "FREITAG": [
             "KREATOR",
             "AIRBOURNE",
             "SUBWAY TO SALLY",
@@ -48,7 +48,7 @@
             "HAGGEFUGG",
             "RODEO 5000"
         ],
-        "SAT, JULY 4TH 2026": [
+        "SAMSTAG": [
             "FEUERSCHWANZ",
             "DORO",
             "KNORKATOR",
