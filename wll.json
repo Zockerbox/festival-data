@@ -2,57 +2,57 @@
     "location": "Loburg",
     "date": "22.05.2026 - 24.05.2026",
     "runningOrder": {
-        "FREITAG": [
-            "SERUM 114",
+        "Freitag": [
+            "SERUM II4",
             "PRO-PAIN",
             "BRDIGUNG",
-            "Harpyie",
+            "harpyje",
             "Berserker",
             "EIZBRAND",
             "DRUNKEN SWALLOWS",
             "LAS TIBO"
         ],
-        "SAMSTAG": [
+        "Samstag": [
             "Unantastbar",
             "TORFROCK",
-            "TUXHACK",
+            "TOXPACK",
             "CRUSHING CASPARS",
             "NEUROTOX",
             "VERSUS",
             "AMPEX",
             "LAS TIBO"
         ],
-        "SONNTAG": [
+        "Sonntag": [
             "EISBRECHER",
-            "WILLKUER",
-            "ARTEWICHT",
-            "9mm",
+            "WILLKER",
+            "ARTERIEWICHT",
+            "||| 9mm |||",
             "SCHATTENMANN",
-            "HAiZNBERG",
+            "HAIZNBERG",
             "LAS TIBO"
         ]
     },
     "lineUp": [
-        "9mm",
         "AMPEX",
-        "ARTEWICHT",
+        "ARTERIEWICHT",
         "BRDIGUNG",
         "Berserker",
         "CRUSHING CASPARS",
         "DRUNKEN SWALLOWS",
         "EISBRECHER",
         "EIZBRAND",
-        "HAiZNBERG",
-        "Harpyie",
+        "HAIZNBERG",
         "LAS TIBO",
         "NEUROTOX",
         "PRO-PAIN",
         "SCHATTENMANN",
-        "SERUM 114",
+        "SERUM II4",
         "TORFROCK",
-        "TUXHACK",
+        "TOXPACK",
         "Unantastbar",
         "VERSUS",
-        "WILLKUER"
+        "WILLKER",
+        "harpyje",
+        "||| 9mm |||"
     ]
 }
