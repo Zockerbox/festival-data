@@ -1,6 +1,29 @@
 {
     "location": "Loburg",
     "date": "22.05.2026 - 24.05.2026",
+    "lineUp": [
+        "AMPEX",
+        "ARTERIEWICHT",
+        "BRDIGUNG",
+        "Berserker",
+        "CRUSHING CASPARS",
+        "DRUNKEN SWALLOWS",
+        "EISBRECHER",
+        "EIZBRAND",
+        "HAIZNBERG",
+        "LAS TIBO",
+        "NEUROTOX",
+        "PRO-PAIN",
+        "SCHATTENMANN",
+        "SERUM II4",
+        "TORFROCK",
+        "TOXPACK",
+        "Unantastbar",
+        "VERSUS",
+        "WILLKER",
+        "harpyje",
+        "||| 9mm |||"
+    ],
     "runningOrder": {
         "Freitag": [
             "SERUM II4",
@@ -31,28 +54,5 @@
             "HAIZNBERG",
             "LAS TIBO"
         ]
-    },
-    "lineUp": [
-        "AMPEX",
-        "ARTERIEWICHT",
-        "BRDIGUNG",
-        "Berserker",
-        "CRUSHING CASPARS",
-        "DRUNKEN SWALLOWS",
-        "EISBRECHER",
-        "EIZBRAND",
-        "HAIZNBERG",
-        "LAS TIBO",
-        "NEUROTOX",
-        "PRO-PAIN",
-        "SCHATTENMANN",
-        "SERUM II4",
-        "TORFROCK",
-        "TOXPACK",
-        "Unantastbar",
-        "VERSUS",
-        "WILLKER",
-        "harpyje",
-        "||| 9mm |||"
-    ]
+    }
 }
