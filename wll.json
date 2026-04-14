@@ -1,60 +1,6 @@
 {
-  "location": "Loburg",
-  "date": "22.05. - 24.05.2026",
-  "runningOrder": {
-    "Freitag, 22.05.": [
-      "Serum 114",
-      "Pro-Pain",
-      "BRDIGUNG",
-      "Harpyie",
-      "Berserker Berlin",
-      "Eizbrand",
-      "Drunken Swallows",
-      "Zwoa Capz",
-      "Las Tibo"
-    ],
-    "Samstag, 23.05.": [
-      "Unantastbar",
-      "Torfrock",
-      "Toxpack",
-      "Crushing Caspars",
-      "Neurotox",
-      "Versus",
-      "Ampex",
-      "Las Tibo"
-    ],
-    "Sonntag, 24.05.": [
-      "Eisbrecher",
-      "Willkuer",
-      "Artefuckt",
-      "9mm",
-      "Schattenmann",
-      "Haiznberg",
-      "Las Tibo"
-    ]
-  },
-  "lineUp": [
-    "9mm",
-    "Ampex",
-    "Artefuckt",
-    "Berserker Berlin",
-    "BRDIGUNG",
-    "Crushing Caspars",
-    "Drunken Swallows",
-    "Eisbrecher",
-    "Eizbrand",
-    "Haiznberg",
-    "Harpyie",
-    "Las Tibo",
-    "Neurotox",
-    "Pro-Pain",
-    "Schattenmann",
-    "Serum 114",
-    "Torfrock",
-    "Toxpack",
-    "Unantastbar",
-    "Versus",
-    "Willkuer",
-    "Zwoa Capz"
-  ]
+    "location": "Loburg",
+    "date": "22.05.2026 - 24.05.2026",
+    "runningOrder": {},
+    "lineUp": []
 }
