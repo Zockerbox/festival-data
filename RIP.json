@@ -3,6 +3,9 @@
     "location": "Nürnberg",
     "date": "05.06. - 07.06.2026",
     "lineUp": [
+        "Bad Omens",
+        "Volbeat",
+        "Electric Callboy",
         "Ice Nine Kills",
         "Landmvrks",
         "Marteria",
@@ -25,6 +28,9 @@
         "The Subways",
         "Thornhill",
         "Wargasm",
+        "Sabaton",
+        "Iron Maiden",
+        "The Offspring",
         "A Perfect Circle",
         "Alter Bridge",
         "Finch",
@@ -47,6 +53,9 @@
         "Sondaschule",
         "TesseracT",
         "The Story So Far",
+        "Limp Bizkit",
+        "Linkin Park",
+        "Papa Roach",
         "Architects",
         "Babymetal",
         "The Hives",
@@ -70,7 +79,10 @@
         "We Came As Romans"
     ],
     "runningOrder": {
-        "Freitag, 05.06.2026": [
+        "Freitag, 5. Juni": [
+            "||Bad Omens",
+            "||Volbeat",
+            "||Electric Callboy",
             "||Ice Nine Kills",
             "||Landmvrks",
             "||Marteria",
@@ -94,7 +106,10 @@
             "||Thornhill",
             "||Wargasm"
         ],
-        "Samstag, 06.06.2026": [
+        "Samstag, 6. Juni": [
+            "||Sabaton",
+            "||Iron Maiden",
+            "||The Offspring",
             "||A Perfect Circle",
             "||Alter Bridge",
             "||Finch",
@@ -118,7 +133,10 @@
             "||TesseracT",
             "||The Story So Far"
         ],
-        "Sonntag, 07.06.2026": [
+        "Sonntag, 7. Juni": [
+            "||Limp Bizkit",
+            "||Linkin Park",
+            "||Papa Roach",
             "||Architects",
             "||Babymetal",
             "||The Hives",
