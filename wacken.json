@@ -1,32 +1,12 @@
 {
-  "location": "Wacken",
-  "date": "29.07. - 01.08.2026",
-  "runningOrder": {},
-  "lineUp": [
-    "5th Avenue", "9mm Headshot", "Ad Infinitum", "Airbourne", "Alcest", "Alestorm", "Alfahanne", 
-    "Alien Ant Farm", "Alien Rockin Explosion", "Allt", "Anaal Nathrakh", "Angelus Apatrida", 
-    "Animals as Leaders", "Any given Day", "Arch Enemy", "Arroganz", "Asrock", "Battlecreek", 
-    "Bear McCreary", "Blaas of Glory", "Black Label Society", "Black Tish", "Bleed From Within", 
-    "Blood Command", "Blood Fire Death", "Blood Red Throne", "Broken By The Scream", "Brunhilde", 
-    "Castle Rat", "Chaosbay", "Corrosion of Conformity", "Craft", "Crematory", "Crimson Glory", 
-    "Cruachan", "Crypt Sermon", "Cursed Abyss", "Danko Jones", "Deafheaven", "Def Leppard", 
-    "Diabolisches Werk", "Dieter 'Maschine' Birr", "Dirty Shirt", "Divlje Jagode", "Dritte Wahl", 
-    "Dubioza Kolektiv", "Einherjer", "Eläkeläiset", "Electric Bassboy", "Emperor", "Employed To Serve", 
-    "Europe", "Evil Jared & Krogi", "Expellow", "Faun", "Finsterforst", "Firespawn", "Fit For An Autopsy", 
-    "Focus.", "Future Palace", "Grand Magus", "Guilt Trip", "Gutalax", "H-Blockx", "Hackneyed", 
-    "Hämatom", "Hardline", "Hatebreed", "Heartless Human Harvest", "Heavysaurus", "In Flames", 
-    "Insanity Alert", "Judas Priest", "Kadavar", "Kärbholz", "Katerfahrt", "Kim Dracula", "Kittie", 
-    "Kupfergold", "Lacuna Coil", "Lagwagon", "Lamb of God", "Life of Agony", "Lovebites", "Luna Kills", 
-    "Mambo Kurt", "Manntra", "Mantar", "Metaklapa", "Minotaurus", "Misery Index", "Misþyrming & Nergal", 
-    "Mr. Hurley und die Pulveraffen", "Municipal Waste", "Nevermore", "Nothing More", "Orbit Culture", 
-    "Our Promise", "P.O.D.", "Paleface Swiss", "Paradise Lost", "Phantom", "Pig Destroyer", 
-    "Poison The Preacher", "Powerwolf", "President", "Ricky Warwick", "Rose Tattoo", "Running Wild", 
-    "Sacred Steel", "Sagenbringer", "Savatage", "Saviourself", "Saxon", "Sepultura", "Skyline", 
-    "Skynd", "Spectral Wound", "Stonem", "Storm Seeker", "Subway to Sally", "Temple of the Absurd", 
-    "Ten56.", "The Butcher Sisters", "The Gathering", "The Hardkiss", "The Haunted", "The Limit", 
-    "The Other", "The Troops Of Doom", "Therapy?", "Thrown", "Thundermother", "Thy Art Is Murder", 
-    "Triptykon", "Trold", "Turbonegro", "tuXedoo", "Uli Jon Roth", "Unzucht", "Vanir", "Velvet Rush", 
-    "Vended", "Visions of Atlantis", "Vogelfrey", "Wacken Firefighters", "Wüstenberg", "Wytch Hazel", 
-    "Year of the Goat", "Yngwie Malmsteen", "Zeltinger Band"
-  ]
+    "location": "Wacken",
+    "date": "29.07.2026 - 01.08.2026",
+    "lineUp": [
+        "Sabaton"
+    ],
+    "runningOrder": {
+        "Freitag": [],
+        "Samstag": [],
+        "Sonntag": []
+    }
 }
