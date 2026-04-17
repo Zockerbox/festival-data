@@ -1,11 +1,32 @@
 {
-  "location": "Hude",
-  "date": "03.07. - 05.07.2026",
-  "runningOrder": {},
-  "lineUp": [
-    "Beyond Border", "b.o.s.c.h.", "Diary of Dreams", "Glutsucht", "Haggefugg", 
-    "Hämatom", "Lacrimas Profundere", "League Of Distortion", "MegaBosch", 
-    "Motel Transylvania", "Rauhbein", "Scherbentanz", "Stahlmann", "Velvet Rush", 
-    "Venues", "We Are The Catalyst"
-  ]
+    "location": "Hude",
+    "date": "03.07.2026 - 05.07.2026",
+    "lineUp": [
+        "5th Avenue",
+        "9mm Headshot",
+        "Beyond Border",
+        "C O R",
+        "Der Schulz",
+        "Diary of Dreams",
+        "Glutsucht",
+        "Haggefugg",
+        "Hämatom",
+        "Lacrimas Profundere",
+        "League of Distortion",
+        "MOS - Mit ohne Strom",
+        "Megabosch",
+        "Motel Transylvania",
+        "Neon Lux",
+        "Ozzyfied",
+        "Rauhbein",
+        "Scherbentanz",
+        "Schöngeist",
+        "Stahlmann",
+        "System Noire",
+        "VENUES",
+        "Velvet Rush",
+        "We are the Catalyst",
+        "b.o.s.c.h."
+    ],
+    "runningOrder": {}
 }
