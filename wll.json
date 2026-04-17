@@ -1,58 +1,29 @@
 {
+    "festival": "Wir Leben Laut",
     "location": "Loburg",
-    "date": "22.05.2026 - 24.05.2026",
+    "date": "22.05. - 24.05.2026",
     "lineUp": [
-        "9mm",
-        "AMPEX",
-        "ARTEFUCKT",
-        "BRDigung",
-        "Berserker",
-        "CRUSHING CASPARS",
-        "DRUNKEN SWALLOWS",
-        "EISBRECHER",
-        "EIZBRAND",
-        "HAIZNBERG",
-        "Harpyie",
-        "LAS TIBO",
-        "NEUROTOX",
-        "PRO-PAIN",
-        "SCHATTENMANN",
         "SERUM 114",
-        "TOXPACK",
-        "Torfrock",
+        "PRO-PAIN",
+        "BRDIGUNG",
+        "Harpyie",
+        "Berserker Berlin",
+        "EIZBRAND",
+        "DRUNKEN SWALLOWS",
         "Unantastbar",
+        "TORFROCK",
+        "TOXPACK",
+        "CRUSHING CASPARS",
+        "NEUROTOX",
         "VERSUS",
-        "Willkuer"
+        "AMPEX",
+        "EISBRECHER",
+        "WILLKÜREN",
+        "ARTERIE",
+        "9MM",
+        "SCHATTENMANN",
+        "HAIZNBERG",
+        "LAS TIBO"
     ],
-    "runningOrder": {
-        "Tag 1": [
-            "||SERUM 114",
-            "||PRO-PAIN",
-            "||BRDigung",
-            "||Harpyie",
-            "||Berserker",
-            "||EIZBRAND",
-            "||DRUNKEN SWALLOWS",
-            "||LAS TIBO"
-        ],
-        "Tag 2": [
-            "||Unantastbar",
-            "||Torfrock",
-            "||TOXPACK",
-            "||CRUSHING CASPARS",
-            "||NEUROTOX",
-            "||VERSUS",
-            "||AMPEX",
-            "||LAS TIBO"
-        ],
-        "Tag 3": [
-            "||EISBRECHER",
-            "||Willkuer",
-            "||ARTEFUCKT",
-            "||9mm",
-            "||SCHATTENMANN",
-            "||HAIZNBERG",
-            "||LAS TIBO"
-        ]
-    }
+    "runningOrder": {}
 }
