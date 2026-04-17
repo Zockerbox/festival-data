@@ -2,57 +2,57 @@
     "location": "Loburg",
     "date": "22.05.2026 - 24.05.2026",
     "lineUp": [
-        "9MM",
-        "Ampex",
-        "Artefuckt",
+        "9mm",
+        "AMPEX",
+        "ARTEFUCKT",
         "BRDigung",
         "Berserker",
-        "Crushing Caspars",
-        "Drunken Swallows",
-        "Eisbrecher",
-        "Eizbrand",
-        "Haiznberg",
+        "CRUSHING CASPARS",
+        "DRUNKEN SWALLOWS",
+        "EISBRECHER",
+        "EIZBRAND",
+        "HAIZNBERG",
         "Harpyie",
-        "Las Tibo",
-        "Neurotox",
-        "Pro-Pain",
-        "Schattenmann",
-        "Serum 114",
+        "LAS TIBO",
+        "NEUROTOX",
+        "PRO-PAIN",
+        "SCHATTENMANN",
+        "SERUM 114",
+        "TOXPACK",
         "Torfrock",
-        "Toxpack",
         "Unantastbar",
-        "Versus",
+        "VERSUS",
         "Willkuer"
     ],
     "runningOrder": {
-        "Spalte 1": [
-            "||Serum 114",
-            "||Pro-Pain",
+        "Tag 1": [
+            "||SERUM 114",
+            "||PRO-PAIN",
             "||BRDigung",
             "||Harpyie",
             "||Berserker",
-            "||Eizbrand",
-            "||Drunken Swallows",
-            "||Las Tibo"
+            "||EIZBRAND",
+            "||DRUNKEN SWALLOWS",
+            "||LAS TIBO"
         ],
-        "Spalte 2": [
+        "Tag 2": [
             "||Unantastbar",
             "||Torfrock",
-            "||Toxpack",
-            "||Crushing Caspars",
-            "||Neurotox",
-            "||Versus",
-            "||Ampex",
-            "||Las Tibo"
+            "||TOXPACK",
+            "||CRUSHING CASPARS",
+            "||NEUROTOX",
+            "||VERSUS",
+            "||AMPEX",
+            "||LAS TIBO"
         ],
-        "Spalte 3": [
-            "||Eisbrecher",
+        "Tag 3": [
+            "||EISBRECHER",
             "||Willkuer",
-            "||Artefuckt",
-            "||9MM",
-            "||Schattenmann",
-            "||Haiznberg",
-            "||Las Tibo"
+            "||ARTEFUCKT",
+            "||9mm",
+            "||SCHATTENMANN",
+            "||HAIZNBERG",
+            "||LAS TIBO"
         ]
     }
 }
