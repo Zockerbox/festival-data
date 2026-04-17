@@ -3,7 +3,67 @@
     "location": "Ballenstedt",
     "date": "01.07. - 04.07.2026",
     "lineUp": [
-        "DORO"
+        "WOLVESPIRIT",
+        "COPPELION",
+        "BÖMBERS",
+        "J.B.O.",
+        "FINNTROLL",
+        "INFECTED RAIN",
+        "WINTERSTORM",
+        "RAGE",
+        "LORD OF THE LOST",
+        "AMORPHIS",
+        "IN EXTREMO",
+        "BLIND GUARDIAN",
+        "LOST SOCIETY",
+        "HÄMATOM",
+        "SUBWAY TO SALLY",
+        "EISBRECHER",
+        "MACHINE HEAD",
+        "POWERWOLF",
+        "WITHIN TEMPTATION",
+        "THE HALO EFFECT",
+        "DRONE",
+        "VERSENGOLD",
+        "KORPIKLAANI",
+        "DORO",
+        "FEUERSCHWANZ",
+        "PARKWAY DRIVE"
     ],
-    "runningOrder": {}
+    "runningOrder": {
+        "Mittwoch, 08.07.2026": [
+            "||WOLVESPIRIT",
+            "||COPPELION",
+            "||BÖMBERS",
+            "||J.B.O."
+        ],
+        "Donnerstag, 09.07.2026": [
+            "||FINNTROLL",
+            "||INFECTED RAIN",
+            "||WINTERSTORM",
+            "||RAGE",
+            "||LORD OF THE LOST",
+            "||AMORPHIS",
+            "||IN EXTREMO",
+            "||BLIND GUARDIAN"
+        ],
+        "Freitag, 10.07.2026": [
+            "||LOST SOCIETY",
+            "||HÄMATOM",
+            "||SUBWAY TO SALLY",
+            "||EISBRECHER",
+            "||MACHINE HEAD",
+            "||POWERWOLF",
+            "||WITHIN TEMPTATION"
+        ],
+        "Samstag, 11.07.2026": [
+            "||THE HALO EFFECT",
+            "||DRONE",
+            "||VERSENGOLD",
+            "||KORPIKLAANI",
+            "||DORO",
+            "||FEUERSCHWANZ",
+            "||PARKWAY DRIVE"
+        ]
+    }
 }
