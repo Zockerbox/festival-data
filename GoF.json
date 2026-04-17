@@ -17,18 +17,18 @@
         "VOGELFREY"
     ],
     "runningOrder": {
-        "GOITZSCHE FRONT": "||GOITZSCHE FRONT",
-        "STAHLZEIT": "||STAHLZEIT",
-        "TOXPACK": "||TOXPACK",
-        "RAUHBEIN": "||RAUHBEIN",
-        "KNEIPENTERRORISTEN": "||KNEIPENTERRORISTEN",
-        "ASENBLUT": "||ASENBLUT",
-        "MEGABOSCH": "||MEGABOSCH",
-        "AMPEX": "||AMPEX",
-        "DIRK MARON": "||DIRK MARON",
-        "VOGELFREY": "||VOGELFREY",
-        "33RPM": "||33RPM",
-        "CLAUDIA KURVER": "||CLAUDIA KURVER",
-        "ROCKSUCHT": "||ROCKSUCHT"
+        "1": "||GOITZSCHE FRONT",
+        "2": "||STAHLZEIT",
+        "3": "||TOXPACK",
+        "4": "||RAUHBEIN",
+        "5": "||KNEIPENTERRORISTEN",
+        "6": "||ASENBLUT",
+        "7": "||MEGABOSCH",
+        "8": "||AMPEX",
+        "9": "||DIRK MARON",
+        "10": "||VOGELFREY",
+        "11": "||33RPM",
+        "12": "||CLAUDIA KURVER",
+        "13": "||ROCKSUCHT"
     }
 }
