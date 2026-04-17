@@ -3,27 +3,57 @@
     "location": "Loburg",
     "date": "22.05. - 24.05.2026",
     "lineUp": [
-        "SERUM 114",
-        "PRO-PAIN",
+        "9MM",
+        "AMPEX",
+        "ARTEFAKT",
+        "Berserker",
         "BRDIGUNG",
-        "Harpyie",
-        "Berserker Berlin",
-        "EIZBRAND",
+        "CRUSHING CASPARS",
         "DRUNKEN SWALLOWS",
-        "Unantastbar",
+        "EISBRECHER",
+        "EIZBRAND",
+        "HAIZNBERG",
+        "Harpie",
+        "LAS TIBO",
+        "NEUROTOX",
+        "PRO-PAIN",
+        "SCHATTENMANN",
+        "SERUM 114",
         "TORFROCK",
         "TOXPACK",
-        "CRUSHING CASPARS",
-        "NEUROTOX",
+        "Unantastbar",
         "VERSUS",
-        "AMPEX",
-        "EISBRECHER",
-        "WILLKÜREN",
-        "ARTERIE",
-        "9MM",
-        "SCHATTENMANN",
-        "HAIZNBERG",
-        "LAS TIBO"
+        "WILLKÜR"
     ],
-    "runningOrder": {}
+    "runningOrder": {
+        "Freitag, 22.05.2026": [
+            "||SERUM 114",
+            "||PRO-PAIN",
+            "||BRDIGUNG",
+            "||Harpie",
+            "||Berserker",
+            "||EIZBRAND",
+            "||DRUNKEN SWALLOWS",
+            "||LAS TIBO"
+        ],
+        "Samstag, 23.05.2026": [
+            "||Unantastbar",
+            "||TORFROCK",
+            "||TOXPACK",
+            "||CRUSHING CASPARS",
+            "||NEUROTOX",
+            "||VERSUS",
+            "||AMPEX",
+            "||LAS TIBO"
+        ],
+        "Sonntag, 24.05.2026": [
+            "||EISBRECHER",
+            "||WILLKÜR",
+            "||ARTEFAKT",
+            "||9MM",
+            "||SCHATTENMANN",
+            "||HAIZNBERG",
+            "||LAS TIBO"
+        ]
+    }
 }
