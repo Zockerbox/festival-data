@@ -9,6 +9,11 @@
     "date": "Di 04.08. ab 15:30",
     "rating": 2
   },
+  "brunnenhof1": {
+    "status": "requested",
+    "date": "",
+    "rating": 0
+  },
   "lerchenwuhne140": {
     "status": "visited",
     "date": "",
@@ -25,12 +30,12 @@
     "rating": 0
   },
   "hohepforte62": {
-    "status": "open",
+    "status": "requested",
     "date": "",
     "rating": 0
   },
   "rostocker16": {
-    "status": "open",
+    "status": "requested",
     "date": "",
     "rating": 0
   }
